@@ -3,7 +3,7 @@
   | . | . | -_|   | | | |_  |  _| '_|  |  |  |   __|  |  |   __|  |__|  |  |   __|
   |___|  _|___|_|_|_____|___|_| |_,_|  |____/|_____|\___/|_____|_____|_____|__|   
       |_|                                                                         
----------------------------------------------------------------------------------------</pre>
+---------------------------------------------------------------------------------------
 
 o3ServerManagement is a graphical Python application that allows you to create backups and monitor important metadata of the system. 
 It is simple in structure and shines in a beautiful XP design.
