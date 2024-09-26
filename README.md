@@ -1,40 +1,10 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Header mit ASCII-Art</title>
-    <style>
-        body {
-            font-family: monospace;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #222;
-            color: white;
-        }
-        pre {
-            font-size: 14px;
-            line-height: 1.2;
-        }
-    </style>
-</head>
-<body>
-
-<header>
-    <pre>
+ <pre>
                            ____     __     _____  ___   _______  ________
  ___  ___  ___ ___ _    __|_  /____/ /__  /  _/ |/ / | / / __/ |/ /_  __/
 / _ \/ _ \/ -_) _ \ |/|/ //_ </ __/  '_/ _/ //    /| |/ / _//    / / /   
 \___/ .__/\__/_//_/__,__/____/_/ /_/\_\ /___/_/|_/ |___/___/_/|_/ /_/    
    /_/                                                                   
     </pre>
-</header>
-
-
 
 
 <pre>
@@ -64,5 +34,3 @@ have fun
   
 </pre>
 
-</body>
-</html>
